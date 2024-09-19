@@ -1,3 +1,5 @@
+// Write a program to find the given number is a palindrome or not.
+
 import java.util.Scanner;
 
 public class PalindromeNumber {
