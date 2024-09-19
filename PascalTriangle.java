@@ -1,3 +1,5 @@
+// Write a program to print pascal triangle
+
 import java.util.Scanner;
 
 public class PascalTriangle {
