@@ -1,4 +1,4 @@
-
+// Write a program to find sum of two matrices
 public class ArraySumOfTwoMatrix {
 
 	public static void main(String[] args) {
