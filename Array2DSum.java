@@ -1,3 +1,4 @@
+// Write a program to find the sum of 2 dimensional array.
 import java.util.Scanner;
 
 public class Array2DSum {
