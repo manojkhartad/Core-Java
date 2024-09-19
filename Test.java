@@ -1,3 +1,4 @@
+// Write a program to print the values after type casting
 
 public class Test {
 
