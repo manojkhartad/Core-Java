@@ -1,3 +1,4 @@
+// Write a program to convert days to hours
 import java.util.Scanner;
 
 public class DaysToHours {
