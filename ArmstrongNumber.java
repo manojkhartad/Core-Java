@@ -1,3 +1,4 @@
+// Write a program to check whether the entered number by user is Armstrong number or not.
 import java.util.Scanner;
 
 public class ArmstrongNumber {
