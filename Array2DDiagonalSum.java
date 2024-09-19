@@ -1,3 +1,4 @@
+// Write a program to find the sum of diagonal elements in Matrix
 import java.util.Scanner;
 
 public class Array2DDiagonalSum {
