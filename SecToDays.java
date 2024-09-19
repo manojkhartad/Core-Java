@@ -1,3 +1,4 @@
+// Write a program to convert seconds to days
 import java.util.Scanner;
 
 public class SecToDays {
