@@ -1,4 +1,4 @@
-
+// Write a program to print 2 dimensional array
 public class Array2DPrint {
 
 	public static void main(String[] args) {
