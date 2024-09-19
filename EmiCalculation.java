@@ -1,3 +1,5 @@
+// Write a program to calculate the EMI. Take input from user as principle amount, rate of interest, tenure.
+
 import java.util.Scanner;
 
 public class EmiCalculation {
