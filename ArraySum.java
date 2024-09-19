@@ -1,3 +1,4 @@
+// Write a program to find sum of given array
 import java.util.Scanner;
 
 public class ArraySum {
