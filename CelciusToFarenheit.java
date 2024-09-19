@@ -8,7 +8,7 @@ public class CelciusToFarenheit {
 		Scanner scan = new Scanner (System.in);
 		System.out.println("Enter Celcius Value");
 		double c = scan.nextDouble();
-		double f = (9/5) * c + 32;
+		double f = (9/5) * c + 32; // formula to convert celcius to fahrenheit
 		System.out.println("Farenheit = " +f);
 		
 	}
