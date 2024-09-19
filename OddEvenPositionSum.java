@@ -1,3 +1,5 @@
+// Write a program to find the sum of odd and even position seperately.
+
 import java.util.Scanner;
 
 public class OddEvenPositionSum {
