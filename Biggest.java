@@ -1,3 +1,5 @@
+// Write a program to find the biggest number among the three given numbers.
+
 import java.util.Scanner;
 
 public class Biggest 
